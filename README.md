@@ -8,7 +8,7 @@ An App that provides a way for people who are Interested in movies to view their
 # Demo
 
 # Learners
-- Nouf Alghannam
-- Monirah Aljarrah
-- Atheer Aljohani
-- Reema Albogami
+- <a href="https://github.com/NoufAlghannam">Nouf Alghannam</a>
+- <a href="https://github.com/Monirah90">Monirah Aljarrah</a>
+- <a href="https://github.com/Atheerj">Atheer Aljohani</a>
+- <a href="https://github.com/Reemaa98">Reema Albogami</a>
